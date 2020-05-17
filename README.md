@@ -1,7 +1,7 @@
 ## Hallo! 
 # We are team "Power"!
 
-* Aleksandra
+* [Aleksandra](./aleksandra.md)
 * Mamé
 * Nadia
 * Oguz
