@@ -5,5 +5,5 @@
 * [Mamé](./mamé.md)
 * [Nadia](./nadia.md)
 * [Oguz](./oguz.md)
-* Ali
+* [Ali](./ali.md)
 * Nour
