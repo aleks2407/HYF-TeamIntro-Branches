@@ -1,104 +1,124 @@
-Development Strategy
-Team Power
+# Development Strategy
 
-write a short description of your web page:
+> `team-branchies`
 
-what is it about?
-who would want to read it?
-why would they want to read it?
-0. Set-Up
-A User can see my initial repository and live demo
+A simple little website for the world to know a little about us
 
-Repo
-Created a new repository
-Clone the repository
-Copy-paste this development strategy file into a file called development-strategy.md
-Add a license
-Give a title to your README
-Fill out the rest of this file with your team's names
-Push the changes
-turn on GitHub Pages
-1. User Story: about your team
-As a site visitor, I want to know about your team and who is in it
+## 1. User Story: about team "Power"
 
-Repo
-This user story was developed on a branch called 1-about-team
+__As a site visitor, I want to know about your team and who is in it__
 
-README.md
+### Repo
+
+README
+
 Wrote an introduction to the team and added a list with all of our names.
 
-2. User Story: introducing name Aleksandra
-As a site visitor, I want to learn more about name Aleksandra
+---
 
-Repo
-This user story was developed on a brach called 2-Aleksandra
+## 2. User Story: introducing Aleksandra
 
-aleksandra.md
+__As a site visitor, I want to learn more about Aleksandra__
+
+### Repo
+
+This user story was developed on a brach called `aleksandra`
+
+### aleksandra.md
+
 Write a markdown bio page for this team member
 
-README.md
+### README.md
+
 Change this team member's name on the list into a link to their new profile page
 
+---
 
-3. User Story: introducing name Mame
-As a site visitor, I want to learn more about name Mame
+## 3. User Story: introducing Mamé
 
-Repo
-This user story was developed on a brach called 3-name
+__As a site visitor, I want to learn more about Mamé__
 
-mame.md
+### Repo
+
+This user story was developed on a brach called `mamé`
+
+### mamé.md
+
 Write a markdown bio page for this team member
 
-README.md
+### README.md
+
 Change this team member's name on the list into a link to their new profile page
 
-4. User Story: introducing name Nadia
-As a site visitor, I want to learn more about name Nadia
+---
 
-Repo
-This user story was developed on a brach called 3-name
+## 4. User Story: introducing Nadia
 
-nadia.md
+__As a site visitor, I want to learn more about Nadia__
+
+### Repo
+
+This user story was developed on a brach called `nadia`
+
+### nadia.md
+
 Write a markdown bio page for this team member
 
-README.md
+### README.md
+
 Change this team member's name on the list into a link to their new profile page
 
-5. User Story: introducing name Oguz
-As a site visitor, I want to learn more about name Oguz
+---
 
-Repo
-This user story was developed on a brach called 3-name
+## 5. User Story: introducing Oguz
 
-oguz.md
+__As a site visitor, I want to learn more about Oguz__
+
+### Repo
+
+This user story was developed on a brach called `oguz`
+
+### oguz.md
+
 Write a markdown bio page for this team member
 
-README.md
+### README.md
+
 Change this team member's name on the list into a link to their new profile page
 
-6. User Story: introducing name Ali
-As a site visitor, I want to learn more about name Ali
+## 6. User Story: introducing Ali
 
-Repo
-This user story was developed on a brach called 3-name
+__As a site visitor, I want to learn more about Ali__
 
-ali.md
+### Repo
+
+This user story was developed on a brach called `ali`
+
+### ali.md
+
 Write a markdown bio page for this team member
 
-README.md
+### README.md
+
 Change this team member's name on the list into a link to their new profile page
 
-7. User Story: introducing name Nour
-As a site visitor, I want to learn more about name Nour
+## 7. User Story: introducing Nour
 
-Repo
-This user story was developed on a brach called 3-name
+__As a site visitor, I want to learn more about Nour__
 
-nour.md
+### Repo
+
+This user story was developed on a brach called `nour`
+
+### nour.md
+
 Write a markdown bio page for this team member
 
-README.md
-Change this team member's name on the list into a link to their new profile page
+### README.md
 
-X. Finishing Touches
-As a perfectionist, I want everything perfect :)
+Change this team member's name on the list into a link to their new profile page
+---
+
+## 8. Finishing Touches
+
+__As a perfectionist, I want everything perfect :)__
