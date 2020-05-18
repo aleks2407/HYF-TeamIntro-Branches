@@ -2,7 +2,7 @@
 # We are team "Power"!
 
 * [Aleksandra](./aleksandra.md)
-* Mamé
+* [Mamé](./mamé.md)
 * Nadia
 * Oguz
 * Ali
