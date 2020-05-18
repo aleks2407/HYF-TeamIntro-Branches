@@ -4,6 +4,6 @@
 * [Aleksandra](./aleksandra.md)
 * [Mamé](./mamé.md)
 * [Nadia](./nadia.md)
-* Oguz
+* [Oguz](./oguz.md)
 * Ali
 * Nour
